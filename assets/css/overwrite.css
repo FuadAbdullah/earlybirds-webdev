@@ -1,0 +1,22 @@
+.navbar.navbar-light.navbar-expand-md {
+  border-radius: 0px 0px 30px 30px;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFEBC6;
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FFB100;
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #F15946;
+}
+
